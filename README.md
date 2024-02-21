@@ -1,3 +1,3 @@
 # learing
-learnig of git files
+Learning of git files
 author-nawaz anas
